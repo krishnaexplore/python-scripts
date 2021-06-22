@@ -1,1 +1,3 @@
 python-rest-app/__pycache__
+
+*.pyc
